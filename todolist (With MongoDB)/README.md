@@ -1,5 +1,5 @@
 
-# TOdo list with mongoDB
+# Todo list with mongoDB
 
 Todo list with mongoDB for data base so it actully keeps your data stored
 
